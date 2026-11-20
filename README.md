@@ -1,7 +1,3 @@
-# NAME: AAKASH R
-# REGISTER NO: 212224060002
-# DATE:31.10.26
-# Ex.No.5-Building-and-Training-a-CNN
 ## Building and Training a CNN: Use a framework like TensorFlow or PyTorch to build and train a CNN
 ## Aim :To build and train a CNN 
 
